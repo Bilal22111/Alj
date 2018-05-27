@@ -922,7 +922,7 @@ client.on('message', message => {
 client.on('message', message => {
   if (true) {
 if (message.content === '!support') {
-      message.author.send(' *** :gear: Server Support :gear: **" , "  **https://discord.gg/TNRVfay**   ').catch(e => console.log(e.stack));
+      message.author.send(' *** :gear: Server Support :gear: **" , "  **https://discord.gg/DC9yH5C**   ').catch(e => console.log(e.stack));
 
     }
    } 
